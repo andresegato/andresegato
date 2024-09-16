@@ -4,17 +4,16 @@ Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Eng
 
 ## Sobre Mim
 
-- 👨‍🎓 *Graduação*: Engenharia de Software na PUC Minas.
-- 🌱 *Atividades Atuais*: Foco em aprimorar meus conhecimentos em desenvolvimento de software, design de sistemas e metodologias ágeis.
-- 💼 *Experiência Profissional*:  Tenho interesse em vagas para Dev Jr.
+- 👨‍🎓 *Graduando* Engenharia de Software na PUC Minas.
+- 🌱 *Atividades Atuais*: Foco em aprimorar meus conhecimentos em tecnologias de software e metodologias ágeis.
+- 💼 *Experiência Profissional*:  Tenho interesse em vagas para Estágio.
 
 ## Habilidades
 
-- *Linguagens de Programação:* Java, Python, C#
-- *Desenvolvimento Web:* HTML, CSS, JavaScript, React
-- *Banco de Dados:* MySQL, MongoDB
+- *Linguagens de Programação:* C
+- *Desenvolvimento Web:* HTML, CSS, JavaScript.
 - *Metodologias:* Scrum, Kanban
-- *Ferramentas:* Git, VS Code, Eclipse
+- *Ferramentas:* Git, VS Code, CodeBlocks
 
 
 ## Contato
