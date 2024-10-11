@@ -11,7 +11,7 @@ Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Eng
 ## Habilidades
 
 - *Linguagens de Programação:* C
-- *Desenvolvimento Web:* HTML, CSS, JavaScript.
+- *Desenvolvimento Web:* HTML, CSS, JavaScript(básico).
 - *Metodologias:* Scrum, Kanban
 - *Ferramentas:* Git, VS Code, CodeBlocks
 
